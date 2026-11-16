@@ -113,7 +113,7 @@ button {
   inset: 0;
 }
 .hero-image {
-  background: url("assets/Sri-Lanka-Tour.jpg")
+  background: url("assets/slimage.jpg")
     center 48% / cover;
   transform: scale(1.02);
 }
