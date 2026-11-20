@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Tourism favicon">
+  <defs>
+    <clipPath id="circle"><circle cx="256" cy="256" r="244"/></clipPath>
+    <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#087E8B"/><stop offset="1" stop-color="#064C63"/></linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="244" fill="url(#sea)"/>
+  <g clip-path="url(#circle)">
+    <circle cx="350" cy="147" r="57" fill="#FFD166"/>
+    <path d="M0 337 145 196l83 83 57-61 227 208v112H0Z" fill="#F8F3E8"/>
+    <path d="m145 196 48 47-31-8-17 19-18-18Z" fill="#B8E0D2"/>
+    <path d="m285 218 46 45-33-11-17 20-22-18Z" fill="#B8E0D2"/>
+    <path d="M0 382q78-33 156 0t156 0 156 0 156 0v130H0Z" fill="#18A6A6"/>
+    <path d="M0 426q78-30 156 0t156 0 156 0 156 0v104H0Z" fill="#087E8B"/>
+  </g>
+  <circle cx="256" cy="256" r="244" fill="none" stroke="#FFF8E8" stroke-width="14"/>
+</svg>
